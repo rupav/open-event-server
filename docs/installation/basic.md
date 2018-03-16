@@ -92,6 +92,7 @@ cd redis-3.2.1
 make
 
 # To run redis
+cd ..
 redis-3.2.1/src/redis-server &
 
 # run worker
